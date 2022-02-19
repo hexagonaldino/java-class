@@ -20,7 +20,7 @@ public class MyPrint
 		System.out.println("근데 중괄호 안에서도 그냥 쓸 수 있나?");
 		{
 			System.out.print("오 쓸 수 있어!!\n");
-			System.out.print("이건 정리할떄 좋겠다");
+			System.out.print("이건 정리할때 좋겠다");
 		}
 	}
 }
